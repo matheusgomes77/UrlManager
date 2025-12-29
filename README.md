@@ -2,20 +2,20 @@ Tecnologias usadas
 
 Backend
 
-Java
+- Java
 
-Spring Boot
+- Spring Boot
 
-Maven
+- Maven
 
-JPA / Hibernate
+- JPA / Hibernate
 
 Frontend
 
-React
+- React
 
-Vite
+- Vite
 
-TypeScript
+- TypeScript
 
-CSS
+- CSS
