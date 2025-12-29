@@ -1,0 +1,90 @@
+:root {
+  background-color: #0f0f1a;
+  color: #ffffff;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Container principal */
+.container {
+  background-color: #1a1a2e;
+  padding: 40px;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 500px;
+  text-align: center;
+  box-shadow: 0 0 20px rgba(138, 43, 226, 0.3);
+}
+
+/* Título */
+.container h1 {
+  margin-bottom: 30px;
+  color: #b983ff;
+}
+
+/* Input */
+.container input {
+  width: 94%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #6a0dad;
+  background-color: #0f0f1a;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.container input::placeholder {
+  color: #aaa;
+}
+
+/* Botão */
+.container button {
+  margin-top: 20px;
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 2px solid #8a2be2;
+  background-color: #8a2be2;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.container button:hover {
+  background-color: transparent;
+  color: #8a2be2;
+}
+
+/* Resultado */
+.result {
+  margin-top: 30px;
+  background-color: #0f0f1a;
+  padding: 15px;
+  border-radius: 8px;
+  border: 1px solid #6a0dad;
+}
+
+.result p {
+  margin: 0 0 10px;
+  color: #b983ff;
+}
+
+.result a {
+  color: #8a2be2;
+  word-break: break-all;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.result a:hover {
+  text-decoration: underline;
+}
