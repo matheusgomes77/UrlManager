@@ -10,8 +10,6 @@ Maven
 
 JPA / Hibernate
 
-H2 ou banco configurado no application.properties
-
 Frontend
 
 React
