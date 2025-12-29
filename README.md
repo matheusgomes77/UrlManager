@@ -53,7 +53,8 @@ npm run dev
 http://localhost:5173
 
 Endpoints principais (Backend)
-Exemplo de endpoints (ajuste conforme seu código):
+
+Exemplo de endpoints:
 
 -GET /urls
 Lista todas as URLs
