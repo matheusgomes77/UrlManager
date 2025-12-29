@@ -56,15 +56,15 @@ Endpoints principais (Backend)
 
 Exemplo de endpoints:
 
--GET /urls
+- GET /urls
 Lista todas as URLs
 
--POST /urls
+- POST /urls
 Cria uma nova URL
 
--GET /urls/{id}
+- GET /urls/{id}
 Busca URL por ID
 
--DELETE /urls/{id}
+- DELETE /urls/{id}
 Remove uma URL
 
